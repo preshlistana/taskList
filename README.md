@@ -1,2 +1,2 @@
 # taskList
-A simple task website where the user can add or remove a task as well as filter the task. 
+A simple task website where the user can add, remove and filter a task. Bootstrap was used for styling. 
